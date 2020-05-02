@@ -6,5 +6,6 @@
     <string name="rating_dialog_feedback_title">Feedback</string>
     <string name="rating_dialog_submit">Submit</string>
     <string name="rating_dialog_cancel">Cancel</string>
+    <string name="rating_dialog_ok">OK</string>
     <string name="rating_dialog_suggestions">Suggest us what went wrong and we\'ll work on it!</string>
 </resources>
